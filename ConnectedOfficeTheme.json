@@ -1,0 +1,16 @@
+{
+    "name": "Connected Office",
+    "dataColors": [
+        "#53fbf2",
+        "#42c7c0",
+        "#9db7c7",
+        "#60707a",
+        "#0069d9",
+        "#00438c",
+        "#909294",
+        "#454647"
+    ],
+    "background": "#def2f1",
+    "foreground": "#3A6108",
+    "tableAccent": "#282c34"
+}
